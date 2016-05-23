@@ -1,0 +1,5 @@
+(* Copyright (c) 2014 Sophia Donataccio, The MIT License (MIT) *)
+
+$(SML_LIB)/basis/basis.mlb
+../src/sha1.mlb
+sha1-string.sml

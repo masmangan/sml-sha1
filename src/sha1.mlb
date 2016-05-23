@@ -1,0 +1,10 @@
+(* Copyright (c) 2014 Sophia Donataccio, The MIT License (MIT) *)
+
+local
+  $(SML_LIB)/basis/basis.mlb
+  sha1.sig
+  sha1.fun
+in
+  signature SHA1
+  structure SHA1
+end
